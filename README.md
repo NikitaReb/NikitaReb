@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Разработчик 1С
 --------------
 
-* 🖥️  See my portfolio at [сертификаты](http://https://github.com/NikitaReb/NikitaReb/blob/b7b6d6e5a800a669fe24876be8f21bc1d1496910/Certificates/Description.md)
+* 🖥️  See my portfolio at [сертификаты](https://github.com/NikitaReb/NikitaReb/blob/main/Certificates/Description.md)
 * 🚀  I'm currently working on [системой управления производством](http://www.ditecsoft.ru/)
 * 👥  I'm looking to collaborate on проектах с чистой архитектурой
 * 💬  Ask me about Сосредоточен на том, чтобы мой код приносил пользу в рабочих проектах
