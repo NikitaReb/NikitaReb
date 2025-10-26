@@ -6,7 +6,7 @@
 - 🚀 Сейчас я работаю в проекте [DITEC MRP](https://www.ditecsoft.ru/).
 - 🤝 Я открыт для сотрудничества в прооектах с открытым исходным кодом.
 - 🖥️ [Мои дипломы и сертификаты](https://github.com/NikitaReb/NikitaReb/blob/main/Certificates/Description.md)
-- 🧠 Люблю изучать новые технологии.
+- 🧠 Люблю изучать новые подходы к программированию.
 
 <h3 align="left">✉️ Социальные сети:</h3>
 <p align="left">
