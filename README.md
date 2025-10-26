@@ -1,5 +1,5 @@
 <h1 align="left">Привет! Меня зовут Ребриков Никита</h1>
-<h2 align="left">Разработчик 1С</h3>
+<h3 align="left">Разработчик 1С</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitareb&label=Profile%20views&color=0e75b6&style=flat" alt="nikitareb" /> </p>
 
