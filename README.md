@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitareb&label=Profile%20views&color=0e75b6&style=flat" alt="nikitareb" /> </p>
 
-- 🔭 I’m currently working on [DITEC MRP](https://www.ditecsoft.ru/)
-
-- 📫 How to reach me **rebrikov6896mail.ru**
+- 🚀 Сейчас я работаю в проекте [DITEC MRP](https://www.ditecsoft.ru/).
+- 🤝 Я открыт для сотрудничества в прооектах.
+- 🖥️ [Мои сертификаты](https://github.com/NikitaReb/NikitaReb/blob/main/Certificates/Description.md)
+- 🧠 Люблю изучать новые технологии.
 
 <h3 align="left">Социальные сети:</h3>
 <p align="left">
