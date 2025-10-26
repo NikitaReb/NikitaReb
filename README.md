@@ -8,12 +8,12 @@
 - 🖥️ [Мои сертификаты](https://github.com/NikitaReb/NikitaReb/blob/main/Certificates/Description.md)
 - 🧠 Люблю изучать новые технологии.
 
-<h3 align="left">Социальные сети:</h3>
+<h3 align="left">✉️ Социальные сети:</h3>
 <p align="left">
 <a href="https://t.me/rebnikita" target="blank"><img align="center" src="https://github.com/NikitaReb/NikitaReb/blob/main/Icon/telegram_icon_130816.svg" height="30" width="40" /></a>
 <a href="https://vk.com/id206897237" target="blank"><img align="center" src="https://github.com/NikitaReb/NikitaReb/blob/main/Icon/iconfinder-social-media-applications-32vk-4102593_113806.svg" alt="VK" height="30" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Мои инструменты:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitareb&show_icons=true&locale=en" alt="nikitareb" /></p>
