@@ -1,6 +1,8 @@
 <h1 align="left">Привет! Меня зовут Ребриков Никита</h1>
 <h2 align="left">Разработчик 1С</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitareb&label=Profile%20views&color=0e75b6&style=flat" alt="nikitareb" /> </p>
+
 <h3 align="left">Социальные сети:</h3>
 <p align="left">
 <a href="https://t.me/rebnikita" target="blank"><img align="center" src="https://github.com/NikitaReb/NikitaReb/blob/main/Ikon/telegram_icon_130816.svg" height="30" width="40" /></a>
