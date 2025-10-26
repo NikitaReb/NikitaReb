@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://github.com/NikitaReb" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" alt="NikitaReb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
