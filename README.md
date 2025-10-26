@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://t.me/rebnikita" target="blank"><img align="center" src="https://github.com/NikitaReb/NikitaReb/blob/main/Ikon/telegram_icon_130816.svg" height="30" width="40" /></a>
 <a href="https://vk.com/id206897237" target="blank"><img align="center" src="https://github.com/NikitaReb/NikitaReb/blob/main/Ikon/iconfinder-social-media-applications-32vk-4102593_113806.svg" alt="VK" height="30" width="40" /></a>
-<a href="https://github.com/NikitaReb" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" alt="NikitaReb" height="30" width="40" /></a>
+<a href="https://github.com/NikitaReb" target="blank"><img align="center" src="https://github.com/NikitaReb/NikitaReb/blob/main/Ikon/github_git_hub_logo_icon_132878.svg" alt="NikitaReb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
