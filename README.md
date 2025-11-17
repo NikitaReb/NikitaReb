@@ -5,10 +5,9 @@
 <a href="https://github.com/NikitaReb?tab=repositories"><img src="https://img.shields.io/static/v1?logo=github&label=&message=Repositories&color=36393f&style=flat-square" alt="Repo"></a> </p>
 
 - 🚀 Сейчас я работаю в проекте [DITEC MRP](https://www.ditecsoft.ru/).
-- 🤝 Я открыт для сотрудничества в прооектах с открытым исходным кодом.
-- 🖥️ [Мои дипломы и сертификаты](https://github.com/NikitaReb/NikitaReb/blob/main/Certificates/Description.md)
-- 🧠 Люблю изучать новые подходы к программированию. 
-- 📄 Изучаю С++.
+- 🤝 Я открыт для сотрудничества в прооектах.
+- 🧠 Изучаю архитектурные принципы и практики чистого кода. 
+- 📄 Изучаю синтаксис С++.
 
 <h3 align="left">✉️ Социальные сети:</h3>
 <p align="left">
