@@ -2,7 +2,7 @@
 <h2 align="left">Разработчик 1С</h3>
 
 <p align="left"> <a href="https://github.com/NikitaReb/NikitaReb/blob/main/Certificates/Description.md"><img src="https://img.shields.io/static/v1?logo=diploma&label=&message=MyCertificates&color=36393f&style=flat-square" alt="MyCertificates"></a>
-<a href="https://github.com/NikitaReb?tab=repositories"><img src="https://img.shields.io/static/v1?logo=github&label=&message=MyRepo&color=36393f&style=flat-square" alt="MyRepo"></a> </p>
+<a href="https://github.com/NikitaReb?tab=repositories"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="Repo"></a> </p>
 
 - 🚀 Сейчас я работаю в проекте [DITEC MRP](https://www.ditecsoft.ru/).
 - 🤝 Я открыт для сотрудничества в прооектах с открытым исходным кодом.
