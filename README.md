@@ -1,7 +1,7 @@
 <h1 align="left">Привет! Меня зовут Ребриков Никита</h1>
 <h2 align="left">Разработчик 1С</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitareb&label=Profile%20views&color=0e75b6&style=flat" alt="nikitareb" /> 
+<p align="left"> <a href="https://github.com/NikitaReb/NikitaReb/blob/main/Certificates/Description.md"><img src="https://img.shields.io/static/v1?logo=diploma&label=&message=MyCertificates&color=36393f&style=flat-square" alt="MyCertificates"></a>
 <a href="https://github.com/NikitaReb?tab=repositories"><img src="https://img.shields.io/static/v1?logo=github&label=&message=MyRepo&color=36393f&style=flat-square" alt="MyRepo"></a> </p>
 
 - 🚀 Сейчас я работаю в проекте [DITEC MRP](https://www.ditecsoft.ru/).
