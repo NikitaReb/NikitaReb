@@ -1,7 +1,8 @@
 <h1 align="left">Привет! Меня зовут Ребриков Никита</h1>
 <h2 align="left">Разработчик 1С</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitareb&label=Profile%20views&color=0e75b6&style=flat" alt="nikitareb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitareb&label=Profile%20views&color=0e75b6&style=flat" alt="nikitareb" /> 
+<a href="https://discord.gg/geJF43E"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a> </p>
 
 - 🚀 Сейчас я работаю в проекте [DITEC MRP](https://www.ditecsoft.ru/).
 - 🤝 Я открыт для сотрудничества в прооектах с открытым исходным кодом.
