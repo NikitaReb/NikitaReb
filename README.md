@@ -30,4 +30,4 @@
 <!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>-->
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitareb&show_icons=true&locale=en" alt="nikitareb" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikitareb&show_icons=true&locale=en&layout=compact" alt="nikitareb" /></p>
+<p>&nbsp;<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=nikitareb&show_icons=true&locale=en" alt="nikitareb" /> <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikitareb&show_icons=true&locale=en&layout=compact" alt="nikitareb" /></p>
