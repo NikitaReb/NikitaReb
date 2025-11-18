@@ -1,13 +1,14 @@
 <h1 align="left">Привет! Меня зовут Ребриков Никита</h1>
 <h2 align="left">Разработчик 1С</h3>
 
-<p align="left"> <a href="https://github.com/NikitaReb/NikitaReb/blob/main/Certificates/Description.md"><img src="https://img.shields.io/static/v1?logo=thestorygraph&label=&message=MyCertificates&color=36393f&style=flat-square" alt="MyCertificates"></a>
-<a href="https://github.com/NikitaReb?tab=repositories"><img src="https://img.shields.io/static/v1?logo=github&label=&message=Repositories&color=36393f&style=flat-square" alt="Repo"></a> </p>
+<p align="left"> <a href="https://github.com/NikitaReb/NikitaReb/blob/main/Certificates/Description.md"><img src="https://img.shields.io/static/v1?logo=thestorygraph&label=&message=My сertificates&color=36393f&style=flat-square" alt="MyCertificates"></a>
+<a href="https://github.com/NikitaReb?tab=repositories"><img src="https://img.shields.io/static/v1?logo=github&label=&message=My repositories&color=36393f&style=flat-square" alt="Repo"></a> </p>
 
 - 🚀 Сейчас я работаю в проекте [DITEC MRP](https://www.ditecsoft.ru/).
+
 - 🤝 Я открыт для сотрудничества в прооектах.
-- 🧠 Изучаю архитектурные принципы и практики чистого кода. 
-- 📄 Изучаю синтаксис С++.
+
+- 🧠 Люблю изучать интересные подходы к разработки ПО. 
 
 <h3 align="left">✉️ Социальные сети:</h3>
 <p align="left">
