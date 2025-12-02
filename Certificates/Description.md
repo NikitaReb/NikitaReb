@@ -3,6 +3,7 @@
 ![](https://github.com/NikitaReb/NikitaReb/blob/main/Certificates/Integration.jpg)
 ![](https://github.com/NikitaReb/NikitaReb/blob/main/Certificates/MobileApp.jpg)
 ![](https://github.com/NikitaReb/NikitaReb/blob/main/Certificates/1CSpecialist.jpg)
+![](https://github.com/NikitaReb/NikitaReb/blob/main/Certificates/SQL_start.jpg)
 ![](https://github.com/NikitaReb/NikitaReb/blob/main/Certificates/SSL.jpg)
 ![](https://github.com/NikitaReb/NikitaReb/blob/main/Certificates/StandardConfigurations.jpg)
 ![](https://github.com/NikitaReb/NikitaReb/blob/main/Certificates/Testing.jpg)
