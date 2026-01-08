@@ -3,9 +3,9 @@
 
 - 🚀 Сейчас я работаю в проекте [DITEC MRP](https://www.ditecsoft.ru/).
 
-- 📚 [Мои достижения] (https://github.com/NikitaReb/NikitaReb/blob/main/Certificates/Description.md)
+- 📚 [Мои достижения](https://github.com/NikitaReb/NikitaReb/blob/main/Certificates/Description.md)
 
-- :octocat: [Мои репозитории] (https://github.com/NikitaReb?tab=repositories)
+- :octocat: [Мои репозитории](https://github.com/NikitaReb?tab=repositories)
 
 - 🤝 Я открыт для сотрудничества в прооектах.
 
