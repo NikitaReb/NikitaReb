@@ -1,5 +1,5 @@
 <h1 align="left">Добро пожаловать!</h1>
-<h2 align="left"><a href="https://github.com/NikitaReb?tab=repositories" target="_blank" rel="noreferrer"><img src="https://github.com/NikitaReb/NikitaReb/blob/main/Icon/%D0%92%D0%B8%D0%B7%D0%B8%D1%82%D0%BA%D0%B0.png" alt="VS Code" title="VS" width="2000" height="600" /></a></h3>
+<h2 align="left"><a href="https://github.com/NikitaReb?tab=repositories" target="_blank" rel="noreferrer"><img src="https://github.com/NikitaReb/NikitaReb/blob/main/Icon/%D0%92%D0%B8%D0%B7%D0%B8%D1%82%D0%BA%D0%B0.png" alt="VS Code" title="VS" width="2000" height="400" /></a></h3>
 
 <p align="left"> <a href="https://github.com/NikitaReb/NikitaReb/blob/main/Certificates/Description.md"><img src="https://img.shields.io/static/v1?logo=thestorygraph&label=&message=Certificates&color=36393f&style=flat-square" alt="MyCertificates"></a>
 <a href="https://github.com/NikitaReb?tab=repositories"><img src="https://img.shields.io/static/v1?logo=github&label=&message=Repositories&color=36393f&style=flat-square" alt="Repo"></a> </p>
