@@ -1,5 +1,5 @@
 <h1 align="left">Добро пожаловать!</h1>
-<h2 align="left"><a href="https://github.com/NikitaReb?tab=repositories" target="_blank" rel="noreferrer"><img src="https://github.com/NikitaReb/NikitaReb/blob/main/Icon/%D0%92%D0%B8%D0%B7%D0%B8%D1%82%D0%BA%D0%B0.png"/></a></h3>
+<h2 align="left"><a href="https://github.com/NikitaReb?tab=repositories" target="_blank" rel="noreferrer"><img src="https://github.com/NikitaReb/NikitaReb/blob/main/Icon/%D0%92%D0%B8%D0%B7%D0%B8%D1%82%D0%BA%D0%B0.png" width="400"/></a></h3>
 
 - 🚀 Сейчас я работаю в проекте [DITEC MRP](https://www.ditecsoft.ru/).
 
