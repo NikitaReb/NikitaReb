@@ -1,9 +1,9 @@
 <h1 align="left">Добро пожаловать!</h1>
 <h2 align="left"><a href="https://github.com/NikitaReb?tab=repositories" target="_blank" rel="noreferrer"><img src="https://github.com/NikitaReb/NikitaReb/blob/main/Icon/%D0%92%D0%B8%D0%B7%D0%B8%D1%82%D0%BA%D0%B0.png" width="800"/></a></h3>
 
-<h3 align="left"> Разработчик 1С. 
+<h3 align="left"> Разработчик 1С.</h3>
 Специализируюсь на интеграциях 1С с внешними сервисами, веб-ресурсами, оборудованием и сторонними БД. 
-Внедряю принципы чистого кода, а для оптимизации работы с данными погружаюсь в SQL и анализ запросов.</h3>
+Внедряю принципы чистого кода, а для оптимизации работы с данными погружаюсь в SQL и анализ запросов.
 
 - 🚀 Сейчас я работаю в проекте [DITEC MRP](https://www.ditecsoft.ru/).
 
