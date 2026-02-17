@@ -20,7 +20,7 @@
 
 <p align="left">
 <a href="https://v8.1c.ru/" target="_blank" rel="noreferrer"> <img src="https://github.com/NikitaReb/NikitaReb/blob/main/Icon/1cestart_94341.svg" alt="1C" width="40" height="40"/>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/NikitaReb/NikitaReb/blob/main/Icon/1cestart_94341.svg" alt="1C" width="40" height="40"/>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/NikitaReb/NikitaReb/blob/main/Icon/free-icon-sql-server-5816015.png" alt="1C" width="40" height="40"/>
 
 <h3 align="left">🛠️ Мои инструменты:</h3>
 
